@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         fuck uuuuuuuuuu
+         hello from firct CI/CD project using AWS & Git actions & React project 
         </p>
         <a
           className="App-link"
